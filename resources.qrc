@@ -1,0 +1,103 @@
+<RCC>
+    <qresource prefix="/">
+        <!-- Main QML -->
+        <file>qml/main.qml</file>
+        
+        <!-- Components -->
+        <file>qml/components/CFButton.qml</file>
+        <file>qml/components/CFCard.qml</file>
+        <file>qml/components/CFChart.qml</file>
+        <file>qml/components/CFTable.qml</file>
+        <file>qml/components/CFTextField.qml</file>
+        <file>qml/components/CFStatusBadge.qml</file>
+        <file>qml/components/CFMoneyDisplay.qml</file>
+        <file>qml/components/KPICard.qml</file>
+        <file>qml/components/TransactionListItem.qml</file>
+        <file>qml/components/ProjectsTable.qml</file>
+        
+        <!-- Views -->
+        <file>qml/views/DashboardView.qml</file>
+        <file>qml/views/ProjectsView.qml</file>
+        <file>qml/views/ProjectDetailView.qml</file>
+        <file>qml/views/FinanceView.qml</file>
+        <file>qml/views/TransactionsView.qml</file>
+        <file>qml/views/ReportsView.qml</file>
+        <file>qml/views/ContractorsView.qml</file>
+        <file>qml/views/SettingsView.qml</file>
+        
+        <!-- 3D Views -->
+        <file>qml/views/threed/Building3DView.qml</file>
+        <file>qml/views/threed/ModelViewer.qml</file>
+        
+        <!-- Dialogs -->
+        <file>qml/dialogs/NewProjectDialog.qml</file>
+        <file>qml/dialogs/NewTransactionDialog.qml</file>
+        <file>qml/dialogs/ContractorDialog.qml</file>
+        <file>qml/dialogs/ReportExportDialog.qml</file>
+        
+        <!-- Styles -->
+        <file>qml/styles/CFStyle.qml</file>
+        
+        <!-- Icons -->
+        <file>resources/icons/dashboard.svg</file>
+        <file>resources/icons/folder.svg</file>
+        <file>resources/icons/account_balance.svg</file>
+        <file>resources/icons/receipt.svg</file>
+        <file>resources/icons/bar_chart.svg</file>
+        <file>resources/icons/business.svg</file>
+        <file>resources/icons/settings.svg</file>
+        <file>resources/icons/add.svg</file>
+        <file>resources/icons/edit.svg</file>
+        <file>resources/icons/delete.svg</file>
+        <file>resources/icons/search.svg</file>
+        <file>resources/icons/filter.svg</file>
+        <file>qml/components/CFButton.qml</file>
+        <file>qml/components/CFCard.qml</file>
+        <file>qml/components/CFChart.qml</file>
+        <file>qml/components/CFTable.qml</file>
+        <file>qml/components/CFTextField.qml</file>
+        <file>qml/components/CFStatusBadge.qml</file>
+        <file>qml/components/CFMoneyDisplay.qml</file>
+        <file>qml/components/KPICard.qml</file>
+        <file>qml/components/TransactionListItem.qml</file>
+        <file>qml/components/ProjectsTable.qml</file>
+        
+        <!-- Views -->
+        <file>qml/views/DashboardView.qml</file>
+        <file>qml/views/ProjectsView.qml</file>
+        <file>qml/views/ProjectDetailView.qml</file>
+        <file>qml/views/FinanceView.qml</file>
+        <file>qml/views/TransactionsView.qml</file>
+        <file>qml/views/ReportsView.qml</file>
+        <file>qml/views/ContractorsView.qml</file>
+        <file>qml/views/SettingsView.qml</file>
+        
+        <!-- 3D Views -->
+        <file>qml/views/threed/Building3DView.qml</file>
+        <file>qml/views/threed/ModelViewer.qml</file>
+        
+        <!-- Dialogs -->
+        <file>qml/dialogs/NewProjectDialog.qml</file>
+        <file>qml/dialogs/NewTransactionDialog.qml</file>
+        <file>qml/dialogs/ContractorDialog.qml</file>
+        <file>qml/dialogs/ReportExportDialog.qml</file>
+        
+        <!-- Styles -->
+        <file>qml/styles/CFStyle.qml</file>
+        
+        <!-- Icons -->
+        <file>resources/icons/dashboard.svg</file>
+        <file>resources/icons/folder.svg</file>
+        <file>resources/icons/account_balance.svg</file>
+        <file>resources/icons/receipt.svg</file>
+        <file>resources/icons/bar_chart.svg</file>
+        <file>resources/icons/business.svg</file>
+        <file>resources/icons/settings.svg</file>
+        <file>resources/icons/add.svg</file>
+        <file>resources/icons/edit.svg</file>
+        <file>resources/icons/delete.svg</file>
+        <file>resources/icons/search.svg</file>
+        <file>resources/icons/filter.svg</file>
+        <file>resources/icons/logo.svg</file>
+    </qresource>
+</RCC>
